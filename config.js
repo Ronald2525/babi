@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "XimMin Ng",
+    valentineName: "XinMin Ng",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "I would always be your Valentines my favourite, and am glad you chose me! 🎉💝💖💝💓",
-        message: "NOW KISS YOUR KING AND HUG MEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!",
+        message: "NOW KISS YOUR KING AND HUG MEEEEEEEEEEEEEEEEEEEEEE!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
